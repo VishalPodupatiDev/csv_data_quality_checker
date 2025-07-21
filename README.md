@@ -14,14 +14,17 @@ A Python-based command-line tool to validate the quality of CSV datasets — hel
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```
 csv_data_quality_checker/
-├── checker.py # Main script to analyze data
-├── requirements.txt # Dependencies (pandas)
-├── test_data.csv # Sample file for testing
-└── README.md # You're reading it now
+├── checker.py          # Main script to analyze data
+├── requirements.txt    # Dependencies (pandas)
+├── test_data.csv       # Sample file for testing
+└── README.md           # Project documentation
 
+
+```
 ---
 
 ## 🧪 Sample Output
